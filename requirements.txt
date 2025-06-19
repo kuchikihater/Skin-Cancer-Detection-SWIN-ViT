@@ -1,0 +1,17 @@
+kaggle==1.6.12
+numpy==1.24.4
+pandas==2.2.3
+matplotlib==3.10.3
+seaborn==0.13.2
+opencv-python==4.11.0.86
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+segmentation-models-pytorch==0.5.0
+albumentations==2.0.7
+scikit-learn==1.6.1
+transformers==4.39.0
+huggingface-hub==0.24.2
+tensorboardX==2.6.2.2
+datasets==2.19.0
+accelerate==1.7.0
